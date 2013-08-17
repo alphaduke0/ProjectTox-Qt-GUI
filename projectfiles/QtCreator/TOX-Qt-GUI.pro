@@ -6,6 +6,9 @@
 
 QT       += core gui
 
+# Mac OS X needs a .qmake.cache in the build directory
+cache() 
+
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 TARGET = TOX-Qt-GUI
