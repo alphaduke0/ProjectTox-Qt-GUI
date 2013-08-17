@@ -9,6 +9,7 @@ Please note that development is very early on and the project is not ready to us
 ## Screenshot
 
 ![Hi There](http://i.imgur.com/Wv3lrO7.png "Version 0.1.0 running on Windows 7")
+![Mac OS X Build](http://i.imgur.com/CVqt3Y8.png "ProjectTox-Qt-GUI running on Mac OS X")
 
 ## Building
 
